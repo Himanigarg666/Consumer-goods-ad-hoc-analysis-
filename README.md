@@ -21,5 +21,4 @@ Files Contain:-
 
 4.consumer good presentation
 
-5.SQL Query file
 
